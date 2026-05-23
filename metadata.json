@@ -1,0 +1,6 @@
+{
+  "name": "Busycoast Boreholes",
+  "description": "Premium industrial & domestic borehole drilling and solar water solutions in Harare, Zimbabwe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
